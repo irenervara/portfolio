@@ -439,11 +439,11 @@ ul.nav-menu li a:hover {
 
 #services ul li span {
 	float: left;
-	width: 56px;
-	height: 56px;
-	line-height: 56px;
+	width: 45px;
+	height: 45px;
+	line-height: 45px;
 	text-align: center;
-	font-size: 35px;
+	font-size: 30px;
 	font-family: 'linecons';
 	color: #31478c;
 	background: transparent;
@@ -528,8 +528,8 @@ ul.nav-menu li a:hover {
 	display: inline;
 	margin: 0 10px 0 0;
 	font-size: 13px;
-	font-weight: 800;
-	opacity:0.8;
+	font-weight: 600;
+	/* opacity:0.8; */
 	}
 
 #portfolio ul.portfolio-menu li a {
@@ -537,12 +537,12 @@ ul.nav-menu li a:hover {
     -webkit-border-radius: 5px;
     -khtml-border-radius: 5px;
 	border-radius: 5px;
-	border: 2px solid #31478c;
+	border: 1px solid #31478c;
 	color: #31478c;
 	padding: 4px 7px;
 	height: 100%;
 	display: block;
-	opacity:0.8;
+	/* opacity:0.8; */
 	}
 
 #portfolio ul.portfolio-menu li a:hover,
@@ -557,7 +557,7 @@ ul.nav-menu li a:hover {
 	-moz-transition-duration: 0.5s;
 	-webkit-transition-duration: 0.5s;
 	transition-duration: 0.5s;
-	font-size: 13px;
+	font-size: 20px;
 	font-weight: 800;
 	}
 
