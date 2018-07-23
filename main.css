@@ -527,8 +527,8 @@ ul.nav-menu li a:hover {
 	float: left;
 	display: inline;
 	margin: 0 10px 0 0;
-	font-size: 13px;
-	font-weight: 600;
+	font-size: 14px;
+	font-weight: 500;
 	/* opacity:0.8; */
 	}
 
@@ -537,7 +537,7 @@ ul.nav-menu li a:hover {
     -webkit-border-radius: 5px;
     -khtml-border-radius: 5px;
 	border-radius: 5px;
-	border: 1px solid #31478c;
+	border: 1.5px solid #31478c;
 	color: #31478c;
 	padding: 4px 7px;
 	height: 100%;
@@ -551,14 +551,15 @@ ul.nav-menu li a:hover {
     -webkit-border-radius: 5px;
     -khtml-border-radius: 5px;
 	border-radius: 5px;
-	border: 2px solid #31f4f4;
-	color: #31f4f4;
+	border: 1.5px solid #31f4f4;
+	color: white;
+	background: #31f4f4;
 	-o-transition-duration: 0.5s;
 	-moz-transition-duration: 0.5s;
 	-webkit-transition-duration: 0.5s;
 	transition-duration: 0.5s;
-	font-size: 20px;
-	font-weight: 800;
+	font-size: 14px;
+	font-weight: 500;
 	}
 
 /*Portfolio*/
