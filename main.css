@@ -136,10 +136,12 @@ h3 {
 	}
 
 h8 {
-	font-size: 18px;
+	font-size: 13px;
 	font-weight: 500;
-	color: #666d89;
-	line-height: 3;
+	color: #31478c;
+	/* line-height: 5; */
+	/* opacity:0.8; */
+	/* float:right; */
 	}
 
 h9 {
