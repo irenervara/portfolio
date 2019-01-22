@@ -255,7 +255,7 @@ h13:hover {
 
 .inner {
 	margin: 0 auto;
-	max-width: 940px;
+	max-width: 1050px;
 	padding: 67px 10px;
 	overflow: hidden;
 	}
@@ -432,14 +432,14 @@ ul.nav-menu li a:hover {
 
 
 #services ul {
-	padding: 46px 0 0 0;
+	padding: 36px 0 0 0;
 	}
 
 #services ul li {
 	float: left;
 	padding: 0 20px 0 0;
-	max-width: 290px;
-	margin: 0 0 36px 0;
+	max-width: 320px;
+	margin: 0 0 20px 0;
 	}
 
 #services ul li span {
@@ -447,7 +447,7 @@ ul.nav-menu li a:hover {
 	width: 40px;
 	height: 40px;
 	line-height: 40px;
-	text-align: center;
+	text-align: left;
 	font-size: 30px;
 	font-family: 'linecons';
 	color: #31478c;
@@ -501,7 +501,7 @@ ul.nav-menu li a:hover {
 #services ul li p {
 	float: right;
 	width: 220px;
-	text-align: justify;
+	text-align: left;
 	}
 
 
@@ -624,7 +624,7 @@ ul.nav-menu li a:hover {
 	width: 300px;
 	float: left;
 	display: inline;
-	margin: 0 0 0 20px;
+	margin: 10px 30px 20px 30px;
 	}
 
 #about ul li:first-child {

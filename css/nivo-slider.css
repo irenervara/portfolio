@@ -12,7 +12,7 @@
 	position:relative;
 	height:auto;
 	overflow: hidden;
-	max-width: 940px;
+	max-width: 1050px;
 	max-height: 750px;
 }
 .nivoSlider img {
@@ -112,7 +112,7 @@
 	font-weight:bold;
 }
 
-/* 
+/*
 .dot {
   cursor: pointer;
   height: 15px;
