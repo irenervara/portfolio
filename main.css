@@ -798,8 +798,8 @@ ul.nav-menu li a:hover {
 	margin-left: 0;
 	}
 
-#about ul li img,
-#about ul li h4,
+#about .profile div img,
+#about .profile div h4,
 
 #about ul li p {
 	display: block;
@@ -808,29 +808,34 @@ ul.nav-menu li a:hover {
 
 	}
 
-#about ul li h12 {
+#about .profile div h12 {
 	display: block;
 	text-align: left;
 	margin: 0 0 20px 0;
 
 	}
 
-#about ul li img {
+#about .profile div img {
 	margin: 0 0 17px 0;
 	}
 
-#about ul li p {
+#about .profile div p {
 	margin: 0 0 10px 0;
 	}
 
 
-#about ul li a {
+#about .profile div a {
 	display: block;
 
 	}
-#about ul li h6 {
+#about .profile .center {
 		text-align: center;
 		}
+
+#about .profile h6 {
+		text-align: center;
+		}
+
 
 #about ul li span {
 	font-family: "fontello";
