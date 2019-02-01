@@ -421,8 +421,8 @@ ul.nav-menu li a:hover {
 	#cover {
 		background: #0BF397;
 		overflow: hidden;
-		height: 1000px;
-		border-bottom: 6px solid #0BF397;
+		height: 100%;
+		/* border-bottom: 6px solid #0BF397; */
 		}
 
 	#cover .inner {
