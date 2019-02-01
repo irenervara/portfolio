@@ -53,14 +53,14 @@ Supports Thumbs: true
     -o-transition: all 200ms ease-in-out;
     transition: all 200ms ease-in-out;
 }
-.theme-default:hover .nivo-directionNav a { opacity: 1; }
+.theme-default:hover .nivo-directionNav a { opacity: 1}
 .theme-default a.nivo-nextNav {
 	background-position:-16px 0;
 	right:15px;
 }
 .theme-default a.nivo-prevNav {
 	left:15px;
-	color:#0BF397;
+
 }
 
 .theme-default .nivo-caption {
