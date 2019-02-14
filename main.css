@@ -753,35 +753,40 @@ ul.nav-menu li a:hover {
 
 .overlay {
   position: absolute;
-  top: 0;
+  top: 20px;
   bottom: 0;
   left: 0;
   right: 0;
-  height: 100%;
+  height: relative;
   width: 100%;
   opacity: 0;
   transition: .5s ease;
-  background-color: #f2f2f2;
+  background-color: #0BF397;
 }
 
 .box:hover .overlay {
-  opacity: 0.8;
+  opacity: 0.6;
 }
 
 .text {
-  color: black;
+  color: #f2f2f2;
 	/* background-color: #0BF397; */
   font-size: 12px;
 	font-weight: 800;
   position: absolute;
   top: 50%;
   left: 50%;
-  -webkit-transform: translate(-20%, -20%);
+  -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-  text-align: left;
+  text-align: center;
+	opacity: 0;
+	transition: .5s ease;
 	}
 
+.box:hover .text {
+  opacity: 1;
+}
 
 /*===================================
 ============== About ===============
