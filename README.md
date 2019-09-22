@@ -7,7 +7,7 @@ https://irenervara.github.io/portfolio/.
 **irenervara/portfolio is the published works of Irene Rodriguez Vara**
 This website works as a living portfolio, showcase , tutorials and workshops platform for works developed.
 
-(c)2018  Eduardo Chamorro "irenervara@gmail.com"
+(c)2018 Irene Rodriguez Vara "irenervara@gmail.com"
 Irene Rodriguez Vara Webpage	CC BY-NC-SA
 
 
